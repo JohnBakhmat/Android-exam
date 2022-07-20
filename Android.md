@@ -2349,7 +2349,7 @@ activity_main.xml:
 ● Background: музичний програвач, SMS автовідповідач
 ● Widget: віджети на робочому стол
 
-<img src="./assets/lifcycle.jpg"/>
+<img src="./assets/lifecycle.jpg"/>
 
 # Які ви знаєте види об’єктів Іntеnt? Яке їх призначення?
 
